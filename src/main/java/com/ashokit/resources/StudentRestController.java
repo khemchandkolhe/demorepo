@@ -33,7 +33,6 @@ public class StudentRestController {
 
 	}
 
-	System.out.println("hiiiiiiiii!!!!!!!!!!!!!!");
 	/*
 	 * @GetMapping(value = "/students") public List<Student> getStudentsDetails() {
 	 * 
